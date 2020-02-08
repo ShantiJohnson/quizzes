@@ -29,3 +29,26 @@ Upon completion, `add` and `commit` and...get your changes up to github.com - ho
 9. What happens when we enter `npm install`?
 
 10. List 3 of JS's _primitive data types._
+
+
+##Answers
+
+1) Git is a Version Control System.
+
+2) Bash is a command line interface.
+
+3) cd
+
+4) A linter searches for error in code and displays and error message for what is found.
+
+5)A syntax error might mean you have a misplaced punctuation. (your code is syntactically wrong)
+
+6)Let and Const
+
+7)NPM is Node Package Manager / It manages our files and secures them.
+
+8)JavaScript Object Notation
+
+9)When we enter npm install it installs the cloned repository and all the files it stores.
+
+10)Boolean, Numbers, Strings.
