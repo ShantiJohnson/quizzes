@@ -33,9 +33,9 @@ Upon completion, `add` and `commit` and...get your changes up to github.com - ho
 
 ##Answers
 
-1) Git is a Version Control System.
+1) Git is a Version Control System that allows us to push and pull from github an other online repositories.
 
-2) Bash is a command line interface.
+2) Bash is a program downloaded in most terminal emulators that give us commands to work with our computer and files.
 
 3) cd
 
@@ -45,10 +45,10 @@ Upon completion, `add` and `commit` and...get your changes up to github.com - ho
 
 6)Let and Const
 
-7)NPM is Node Package Manager / It manages our files and secures them.
+7)NPM is Node Package Manager / In conjuction with npmjs.com, we can leverage other code modules  to assist with working on our projects.
 
 8)JavaScript Object Notation
 
-9)When we enter npm install it installs the cloned repository and all the files it stores.
+9)When we enter npm install it communicates with NPM and installs dependancies or devDependancies. It reaches out to nodejs.com and downloads node_module file.
 
 10)Boolean, Numbers, Strings.
